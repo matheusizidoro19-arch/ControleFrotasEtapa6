@@ -2,7 +2,6 @@ package dao;
 
 import conexao.Conexao;
 import modelo.Veiculo;
-
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

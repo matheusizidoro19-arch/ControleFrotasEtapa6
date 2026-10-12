@@ -3,11 +3,9 @@ package com.mycompany.controlefrotasetapa6;
 import dao.MotoristaDAO;
 import dao.VeiculoDAO;
 import dao.ViagemDAO;
-
 import modelo.Motorista;
 import modelo.Veiculo;
 import modelo.Viagem;
-
 import servico.MotoristaService;
 import servico.VeiculoService;
 import servico.ViagemService;
